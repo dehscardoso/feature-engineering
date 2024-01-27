@@ -1,9 +1,3 @@
-﻿
-
-<img src = "https://images2.imgbox.com/d0/0d/f47KOwhX_o.png" width="300">
-
-</br>
-
 ## Feature Engineering for Machine Learning - Code Repository
 
 - Code repository for the online course [Feature Engineering for Machine Learning](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
